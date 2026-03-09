@@ -34,4 +34,4 @@ Financial crime analytics
 
 ## Author
 Rajulapati Gagan Kumar
-gaganrajulapatiofficial@gmail.com
+Mail: gaganrajulapatiofficial@gmail.com
