@@ -29,9 +29,8 @@ The system provides an interactive investigation dashboard for financial crime m
 Banking fraud detection  
 Money laundering investigation  
 Transaction monitoring 
+Financial crime analytics
 
 ## Author 
 Rajulapati Gagan Kumar
 mail: gaganrajulapatiofficial@gmail.com
-Financial crime analytics
-
