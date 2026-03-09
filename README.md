@@ -30,3 +30,8 @@ Banking fraud detection
 Money laundering investigation  
 Transaction monitoring  
 Financial crime analytics
+
+
+## Author
+Rajulapati Gagan Kumar
+gaganrajulapatiofficial@gmail.com
