@@ -1,4 +1,4 @@
-# Autonomous Financial Crime AI
+# Autonomous AI Financial Crime Intelligence System
 
 AI-powered financial crime detection platform built using Python, Machine Learning, and Graph Analytics.
 
@@ -34,3 +34,4 @@ Financial crime analytics
 ## Author 
 Rajulapati Gagan Kumar
 mail: gaganrajulapatiofficial@gmail.com
+
